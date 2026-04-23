@@ -205,8 +205,4 @@ vsim -c top -do "run -all; quit"
 B.Tech ECE — Jalpaiguri Government Engineering College  
 [LinkedIn](https://linkedin.com/in/nirman-dey-554140238) · [GitHub](https://github.com/nirman2004)
 
----
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
